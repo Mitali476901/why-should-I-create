@@ -3,12 +3,12 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Saptarshi's site
+    url: https://mitali476.github.io
+  - name: social book
+    url: https://mitali476901.github.io/demoname
+  - name: Responsive
+    url: https://mitali476901.github.io/responsivaw
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
